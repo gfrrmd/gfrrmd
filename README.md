@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hey, I'm Algifari Ramadhan 👋</h1>
+<h1>Hey, I'm Jee 👋</h1>
 <h3>Full-Stack Developer & Bot Enthusiast from Jakarta, Indonesia 🇮🇩</h3>
 
 <p>
@@ -12,6 +12,7 @@
 
 ### 🧠 About Me
 
+- 🌱 Still learning & growing every day
 - 🤖 I build **Telegram bots** — from AI chatbots to media downloaders & session tools
 - 🌐 Full-stack dev who loves crafting **social media-style web apps**
 - 🧪 Always experimenting with **LLMs & AI APIs** to power smarter apps
@@ -37,18 +38,18 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=gfrrmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfrrmd&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gfrrmd&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfrrmd&layout=compact&theme=default&hide_border=true" height="160"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gfrrmd&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gfrrmd&theme=default&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
 ### 📅 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gfrrmd&theme=tokyo-night&hide_border=true)](https://github.com/gfrrmd)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gfrrmd&theme=github&hide_border=true)](https://github.com/gfrrmd)
 
 ---
 

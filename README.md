@@ -34,8 +34,6 @@ I'm a developer based in Jakarta focused on building web applications, Telegram 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gfrrmd&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=gfrrmd&theme=flat&no-frame=true&column=4&margin-w=8)
-
 ---
 
 ## Contribution Graph

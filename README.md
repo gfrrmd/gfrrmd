@@ -32,12 +32,9 @@ I'm a developer based in Jakarta focused on building web applications, Telegram 
 
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=gfrrmd&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfrrmd&layout=compact&theme=default&hide_border=true" height="150"/>
-
-<br/>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=gfrrmd&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=gfrrmd&theme=flat&no-frame=true&column=4&margin-w=8)
 
 ---
 

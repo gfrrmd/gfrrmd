@@ -1,7 +1,7 @@
 <div align="center">
 
-<h1>Hey, I'm Jee 👋</h1>
-<h3>Full-Stack Developer & Bot Enthusiast from Jakarta, Indonesia 🇮🇩</h3>
+<h1>Hi, I'm Jee</h1>
+<h3>Full-Stack Developer & Bot Enthusiast — Jakarta, Indonesia</h3>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=gfrrmd&label=Profile+Views&color=6c63ff&style=flat" alt="profile views" />
@@ -10,20 +10,18 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
-- 🌱 Still learning & growing every day
-- 🤖 I build **Telegram bots** — from AI chatbots to media downloaders & session tools
-- 🌐 Full-stack dev who loves crafting **social media-style web apps**
-- 🧪 Always experimenting with **LLMs & AI APIs** to power smarter apps
-- 🚀 Rapid prototype → deploy workflow using **Railway & GitHub**
-- 🎨 Believer in clean UI and smooth user experience
-- ☁️ Big fan of **MongoDB, PostgreSQL & Cloudinary** for backend storage
-- 📍 Based in **Jakarta, Indonesia**
+I'm a developer based in Jakarta who enjoys building web applications and Telegram bots. Currently learning and expanding my skills in full-stack development and AI integration.
+
+- Focused on **Node.js**, **Python**, and modern web technologies
+- Interested in **Telegram bot development** and **LLM-powered applications**
+- Deploying projects using **Railway** and managing data with **MongoDB** and **PostgreSQL**
+- Open to collaboration and always looking to improve
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -36,7 +34,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=gfrrmd&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfrrmd&layout=compact&theme=default&hide_border=true" height="160"/>
@@ -47,12 +45,12 @@
 
 ---
 
-### 📅 Contribution Graph
+### Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gfrrmd&theme=github&hide_border=true)](https://github.com/gfrrmd)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gfrrmd&theme=minimal&hide_border=true&bg_color=ffffff&color=6c63ff&line=6c63ff&point=6c63ff)](https://github.com/gfrrmd)
 
 ---
 
-*Thanks for stopping by! Let's connect & build something impactful.* 🙌
+*Thanks for stopping by.*
 
 </div>

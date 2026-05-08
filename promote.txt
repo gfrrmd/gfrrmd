@@ -1,0 +1,39 @@
+╔══════════════════════════════════╗
+║       ⚡ RAMS VIP BOT ⚡         ║
+╚══════════════════════════════════╝
+
+> Status  : OPEN SUBSCRIPTION
+> Version : v1.0 [STABLE]
+> Runtime : Python 3.x + Telethon
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📦 PAKET VIP — [AKTIF MANUAL]
+
+┌─────────────────────────────────┐
+│  .dl      → Download/forward    │
+│             media (reply msg)   │
+│  .copy    → Salin konten dari   │
+│             restricted channel  │
+│             ke Saved Messages   │
+└─────────────────────────────────┘
+
+🗂️  SUPPORT MEDIA FORMAT:
+  ├── 📷 Foto
+  ├── 🎬 Video
+  ├── 📄 Dokumen
+  ├── 🎵 Audio
+  └── 🎭 Stiker (.webp / .tgs / .webm)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚙️  HOW IT WORKS:
+
+  [1] Hubungi admin
+  [2] Admin aktifkan akses VIP
+  [3] Login session Telethon
+  [4] Fitur .dl & .copy langsung aktif ✅
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📩 ORDER VIP → DM Instagram

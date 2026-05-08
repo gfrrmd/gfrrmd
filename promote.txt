@@ -8,11 +8,11 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-📦 PAKET VIP — [AKTIF MANUAL]
+📦 Fitur:
 
 ┌─────────────────────────────────┐
 │  .dl      → Download/forward    │
-│             media (reply msg)   │
+│             media timer         │
 │  .copy    → Salin konten dari   │
 │             restricted channel  │
 │             ke Saved Messages   │
@@ -36,4 +36,4 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-📩 ORDER VIP → DM Instagram
+📩 ORDER VIP → DM Instagram @3.00wib
